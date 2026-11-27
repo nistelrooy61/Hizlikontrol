@@ -3,4 +3,4 @@
     android:accessibilityFeedbackType="feedbackGeneric"
     android:accessibilityFlags="flagDefault"
     android:canPerformGestures="false"
-    android:description="@string/acc_desc" />
+    android:description="Kontrol Merkezi üzerinden güç menüsünü açar ve ekranı kilitler." />
